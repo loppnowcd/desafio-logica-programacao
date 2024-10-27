@@ -27,4 +27,5 @@ if (experienciaDoHeroi < 1000) {
 }
 
 // Exibindo a mensagem final
-console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivel ".");
+console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivel + ".");
+console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivel}.`); // Exibindo o mesmo texto com interpoção de strings
