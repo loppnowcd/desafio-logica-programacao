@@ -27,4 +27,4 @@ if (experienciaDoHeroi < 1000) {
 }
 
 // Exibindo a mensagem final
-console.log("Vejam, o poderoso herói " + nomeDoHeroi +  " se aproxima, ele está no nível " + nivel + ".");
+console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivel ".");
