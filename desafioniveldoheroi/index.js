@@ -2,8 +2,8 @@
 const nomeDoHeroi = prompt("Qual é o nome do seu herói?");
 
 // Solicitando o nível do heroi
-const experienciaDoHeroiImput = prompt("Qual é o nível do seu herói?");
-const experienciaDoHeroi = parseInt(experienciaDoHeroiImput); // Convertendo a resposta para um número inteiro
+const experienciaDoHeroiInput = prompt("Qual é o nível do seu herói?");
+const experienciaDoHeroi = parseInt(experienciaDoHeroiInput); // Convertendo a resposta para um número inteiro
 
 // Inicializando a variável nivel
 let nivel
