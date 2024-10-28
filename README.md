@@ -12,5 +12,3 @@ O terceiro desafio consiste em criar um código com uma classe genérica que rep
 Este desafio foi resolvido usando variáveis e operadores tradicionais, laços de repetição e estrutura de decisão, funções, e também foi adicionado classe e objeto.
 Este desafio foi resolvido utilizando a linguagem #Javascript, conforme padrão deste bootcamp, e o código escrito para este desafio se encontra na pasta DESAFIOATAQUEHEROI.
 Além disso, o desafio também foi resolvido utilizando a linguagem #Python, conforme recomendação do professor, para explorar outras lingaugens e testar nossos limites.
-
-O quarto desafio
